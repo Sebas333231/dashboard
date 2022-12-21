@@ -8,6 +8,7 @@ el proyecto tambien trae para una pantalla modal, en la cual en esta pantalla se
 ![image](https://user-images.githubusercontent.com/110652225/208930858-87de7272-7d6d-4b33-b304-90911dc8af5f.png)
 
 el proyecto esta repartido en diferentes archivos dart, lo cual para utlizar codigo en otro archivo dart utilizamos un import con la ubicacion del archivo.
+![image](https://user-images.githubusercontent.com/110652225/208931253-38c88f25-4617-4214-87a3-f882f3c64e3f.png)
 
 el repositorio solamente tiene la carpeta imagen y lib por lo que este proyecto es muy pensado para subir completo asi que podrian crear un proyecto flutter en android studio, ya creado el archivo solamente seria remplazar la carpeta lib, y la carpeta images solamente copiarla. Ya hecho estos pasos solamente tendrian que darle run para ver observar el dashboard, el codigo de este proyecto es muy facil de entender y es un excelente ejercicio para practicar. 
 
