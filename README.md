@@ -7,5 +7,5 @@ el proyecto tambien trae para una pantalla modal, en la cual en esta pantalla se
 
 el proyecto esta repartido en diferentes archivos dart, lo cual para utlizar codigo en otro archivo dart utilizamos un import con la ubicacion del archivo.
 
-el repositorio solamente tiene la carpeta imagen y lib por lo que este proyecto es muy pensado para subir completo asi que podrian crear un proyecto flutter en android studio, ya creado el archivo solamente seria remplazar la carpeta lib, y la carpeta images solamente copiarla, fue creada por mi. Ya hecho estos pasos solamente tendrian que darle run para ver observar el dashboard, el codigo de este proyecto es muy facil de entender y es un excelente ejercicio para practicar. 
+el repositorio solamente tiene la carpeta imagen y lib por lo que este proyecto es muy pensado para subir completo asi que podrian crear un proyecto flutter en android studio, ya creado el archivo solamente seria remplazar la carpeta lib, y la carpeta images solamente copiarla. Ya hecho estos pasos solamente tendrian que darle run para ver observar el dashboard, el codigo de este proyecto es muy facil de entender y es un excelente ejercicio para practicar. 
 
