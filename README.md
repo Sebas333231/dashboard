@@ -5,6 +5,7 @@ El dashboard es un proyecto responsive que se adacta para movil, tablet y pc, se
 este proyecto contiene la libreria cupertino_icons que como su nombre lo indica es una libreria que nos sirve para utilizar diferentes iconos en nuestros proyectos.
 
 el proyecto tambien trae para una pantalla modal, en la cual en esta pantalla se pueden agregar nombre, imagen, precio, botones, etc.
+![image](https://user-images.githubusercontent.com/110652225/208930858-87de7272-7d6d-4b33-b304-90911dc8af5f.png)
 
 el proyecto esta repartido en diferentes archivos dart, lo cual para utlizar codigo en otro archivo dart utilizamos un import con la ubicacion del archivo.
 
