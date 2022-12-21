@@ -1,5 +1,6 @@
 # dashboard
 El dashboard es un proyecto responsive que se adacta para movil, tablet y pc, se trata de un sitio de compras que contiene diferente casillas para incluir imagenes botones, textos, entre otras cosas.
+![image](https://user-images.githubusercontent.com/110652225/208930350-fb40dc4d-8cce-47d8-9d26-07303c3e12fe.png)
 
 este proyecto contiene la libreria cupertino_icons que como su nombre lo indica es una libreria que nos sirve para utilizar diferentes iconos en nuestros proyectos.
 
